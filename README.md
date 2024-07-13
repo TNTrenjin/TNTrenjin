@@ -7,7 +7,7 @@
 
 💻 **程式語言**： `JS/TS`, `HTML`, `CSS`, `Java`, `Python`, `C#`, `C/C++`
 
-🧩 **IDE**： `VScode`, `Webstorm`, `Pycharm`, `Intellij`
+🧩 **IDE**： `VScode`, `WebStorm`, `PyCharm`, `Intellij`
 
 💪 **當前核心技能**：
 - 前端

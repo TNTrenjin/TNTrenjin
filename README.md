@@ -30,6 +30,7 @@
 - 校園資安深耕營 Advanced Happy CyberSecurity Day: Linux 與基礎資安分析實務課
 
 ### 其他
+- AIS3 2024 學員
 - iPAS 資訊安全工程師 `初級`
 - SITCON 2022：擔任[「R1 我就懶！叫程式自己改程式」](https://www.youtube.com/watch?v=7GThUpie4vQ) 講師
 - 📚 2021 臺灣網際網路研討會暨 TANET&NCS 全國計算機會議：「利用 OpenPose 姿勢辨識應用於健身姿勢進度追蹤之研究」
